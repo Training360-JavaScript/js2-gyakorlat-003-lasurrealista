@@ -4,7 +4,7 @@ const user = {
 };
 
 const {
-  lastName: l = 'unknown',
+  lastName,
   firstName: f = 'unknown',
   job: j = 'unknown',
 } = user;
